@@ -21,7 +21,7 @@ const $card=styled.div`
   height:22rem;
   border-radius:var(--bdrs-input);
   justify-content: center;
-  background-color: white;
+  background-color:var(--dark-white);
   margin-bottom:5rem;
   
     h5{
