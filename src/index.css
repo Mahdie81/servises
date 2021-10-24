@@ -1,3 +1,51 @@
+@font-face {
+  font-family : "IRANYekanRegular";
+  src         : local("IRANYekanRegular"),
+  url("./fonts/IRANYekan/IRANYekanWebRegular.ttf") format("truetype");
+  font-style  : normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family : "IRANYekanBold";
+  src         : local("IRANYekanBold"),
+  url("./fonts/IRANYekan/IRANYekanWebBold.ttf") format("truetype");
+  font-style  : normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family : "IRANYekanLight";
+  src         : local("IRANYekanLight"),
+  url("./fonts/IRANYekan/IRANYekanWebLight.ttf") format("truetype");
+  font-style  : normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family : "IRANYekanBlack";
+  src         : local("IRANYekanBlack"),
+  url("./fonts/IRANYekan/IRANYekanWebBlack.ttf") format("truetype");
+  font-style  : normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family : "IRANYekanExtraBlack";
+  src         : local("IRANYekanExtraBlack"),
+  url("./fonts/IRANYekan/IRANYekanWebExtraBlack.ttf") format("truetype");
+  font-style  : normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family : "BYekan";
+  src         : local("Yekan"),
+  url("./fonts/BYekan/Yekan.ttf") format("truetype");
+  font-style  : normal;
+  font-display: swap
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
