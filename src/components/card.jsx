@@ -23,6 +23,13 @@ const $card=styled.div`
   justify-content: center;
   background-color:var(--dark-white);
   margin-bottom:5rem;
+
+  :hover {
+    background-color   :var(--purper);
+    -webkit-mask-size  : cover;
+
+
+  }
   
     h5{
       margin:1rem;

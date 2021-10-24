@@ -9,7 +9,8 @@
   --orang:#F18500;
   --dark-white:#E1E9E9;
   --title:#425562;
-
+  --purper:#D980FA;
+  --c-o: hsla(0, 100%, 0%, .01) ;
   --c-black                  : hsl(0, 100%, 0%);
   --c-black-o                : hsla(0, 100%, 0%, .1);
   --c-white                  : hsl(0, 100%, 100%);

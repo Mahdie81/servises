@@ -84,12 +84,13 @@ const $N=styled.div`
         color     : white;
         cursor    : pointer;
         font-size : 1rem;
-
+        :hover {
+          border-bottom :2px solid var(--bxsh-grey);
+          color:var(--purper);
+        }
       }
 
-      :hover {
-        border-bottom : 1px solid var(--bxsh-grey);
-      }
+      
 
       @media only screen and (max-width:75em){
         font-size:1rem;
